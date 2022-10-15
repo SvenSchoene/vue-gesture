@@ -65,6 +65,7 @@
   },
   "devDependencies": {
     "@types/jest": "^27.4.0",
+    "@types/node": "^18.11.0",
     "@vitejs/plugin-vue": "^2.0.1",
     "@vue/compiler-sfc": "^3.2.26",
     "@vue/server-renderer": "^3.2.26",
